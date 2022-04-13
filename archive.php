@@ -16,8 +16,7 @@ get_header(); ?>
 
 		
 			<?php
-	
-echo '<div class="fourohfour-columns-2">';
+					echo '<div class="fourohfour-columns-2">';
 
 							echo '<section class="col-1" aria-label="' . esc_html__( 'Promoted Products', 'storefront' ) . '">';
 

@@ -37,7 +37,7 @@
 
 <hr>
 
-## Create demo products and attributes
+## License & Copyright
 
 © Copyright [2021]() [Coffey May]()
 
