@@ -16,7 +16,9 @@
 
 - [Installs](#Installs)
 - [Theme and Child theme](#Theme-and-Child-theme)
-- [Create demo products and attributes](#Create-demo-products-and-attributes) -[Create repository and Push](#Create-repository-and-Push)
+- [Create demo products and attributes](#Create-demo-products-and-attributes)
+- [Alter funtion.php file to display filter by attribute of products on archive page](#Alter-funtion.php-file-to-display-filter-by-attribute-of-products-on-archive-page)
+- [Create repository and Push](#Create-repository-and-Push)
 - [License & Copyright](#License-&-Copyright)
 
 ## Install
@@ -30,6 +32,10 @@
 ## Create demo products and attributes
 
 - My next goal included the creation of demo products and associated attributes. I completed this by using the dashboard controls of wordpress.
+
+## Alter funtion.php file to display filter by attribute of products on archive page
+
+- My next goal included displaying products with a filter by attribute feature on the archive page. I achieved this by using a redirect in the function.php file and also applying a widget.
 
 ## Create repository and Push
 
